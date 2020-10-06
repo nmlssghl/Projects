@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Same code
+=======
+Line modified at test branch
+>>>>>>> test
